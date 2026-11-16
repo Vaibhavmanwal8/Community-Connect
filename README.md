@@ -31,7 +31,7 @@ The seed command is safe: it only creates demo data when the data directory is e
 - Contact details protected by backend authorization until a request is accepted
 - Local `.txt` persistence with escaped records and temporary-file rewrites
 - HTTP API served directly by the C++ backend
-- Responsive vanilla HTML/CSS/JavaScript frontend
+- Responsive HTML/CSS/JavaScript frontend
 
 ## Project structure
 
