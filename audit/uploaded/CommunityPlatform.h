@@ -8,7 +8,7 @@ using namespace std;
 const int MAX_USERS = 100;
 const int MAX_RESOURCES = 200;
 const int MAX_REQUESTS = 300;
-
+//struct user
 struct User {
     int id;
     string name;
